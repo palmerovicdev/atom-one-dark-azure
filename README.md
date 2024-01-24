@@ -1,12 +1,9 @@
 # Atom-One-Dark-Azure
 This is a dark theme based on the Atom One Dark theme, but with a few tweaks to make it more Azure-y.
 <!-- Plugin description -->
-Atom One Dark, but with Azure colors adapted for IntelliJ IDEA and other JetBrains IDEs.
-
-Modernized version of the [Atom One Dark Theme](https://plugins.jetbrains.com/plugin/11938-atom-one-dark-theme) plugin.
-
-You can find the source code on [GitHub](https://github.com/palmerovicdev/Atom-One-Dark-Azure).
-
+Atom One Dark, but with Azure colors adapted for IntelliJ IDEA and other JetBrains IDEs.<br>
+Modernized version of the <a href="https://plugins.jetbrains.com/plugin/11938-atom-one-dark-theme" target="_blank">Atom One Dark Theme</a> plugin.<br>
+You can find the source code on <a href="https://github.com/palmerovicdev/Atom-One-Dark-Azure" target="_blank">GitHub</a>.<br>
 Contributions are welcome!
 <!-- Plugin description end -->
 
