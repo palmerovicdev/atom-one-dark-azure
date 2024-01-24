@@ -12,7 +12,7 @@
 - Updated build.gradle.kts to reflect the new plugin
 - Added icon to the plugin
 
-## [0.1.0] - 2023-01-24
+## [0.1.1] - 2023-01-24
 ### Added
 - Initial release of the plugin
 - Added MIT license
