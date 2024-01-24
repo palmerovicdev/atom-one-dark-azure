@@ -1,0 +1,16 @@
+{
+  "name": "Atom One Dark Azure",
+  "dark": true,
+  "author": "palmerodev",
+  "colors": {
+    "primaryBlueDark": "#303845",
+    "primaryBlueDarkDegraded": "#343c4a",
+    "primaryBlueDarkSelection": "#4c5870"
+  },
+  "ui": {
+    "Editor.background": {
+
+    }
+
+  }
+}
