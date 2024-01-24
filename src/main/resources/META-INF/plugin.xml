@@ -1,12 +1,10 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.palmerovicdev.atomonedarkazure</id>
-    <name>Atom-One-Dark-Azure Template</name>
+    <name>Atom One Dark Azure</name>
     <vendor>palmerovicdev</vendor>
 
     <depends>com.intellij.modules.platform</depends>
-
-    <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="com.github.palmerovicdev.atomonedarkazure" path="/theme/atomOneDarkAzure.theme.json"/>
