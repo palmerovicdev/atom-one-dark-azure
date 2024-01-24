@@ -5,9 +5,10 @@
   "colors": {
     "primaryBlueDark": "#303845",
     "secondaryBlueDark": "#343c4a",
-    "primaryBlueDarkSelection": "#4c5870",
-    "secondaryBlueDarkSelection": "#4c5870",
-    "primaryForeground": "#D0D0D9"
+    "primaryBlueDarkSelection": "#3d4659",
+    "secondaryBlueDarkSelection": "#3d4659",
+    "primaryForeground": "#D0D0D9",
+    "buttonBackground": "#3d4659"
   },
   "ui": {
     "*": {
@@ -38,11 +39,11 @@
 
       "errorForeground": "#dd3962",
 
-      "borderColor": "#4c5163",
+      "borderColor": "primaryBlueDark",
       "disabledBorderColor": "#40475c",
 
-      "focusColor": "#366887",
-      "focusedBorderColor": "#4f749e",
+      "focusColor": "#3d5e72",
+      "focusedBorderColor": "#476486",
 
       "separatorForeground": "#6a7480",
       "separatorColor": "#4b5661",
@@ -59,19 +60,15 @@
     },
 
     "Button": {
-      "startBackground": "#40505c",
-      "endBackground": "#40515c",
+      "startBackground": "buttonBackground",
       "startBorderColor": "#4f6370",
-      "endBorderColor": "#4f5f70",
       "shadowColor": "#27282B",
 
       "default": {
         "foreground": "#D0D0D9",
-        "startBackground": "#38788f",
-        "endBackground": "#38788f",
-        "startBorderColor": "#51889c",
-        "endBorderColor": "#51889c",
-        "focusedBorderColor": "#659ca6",
+        "startBackground": "buttonBackground",
+        "startBorderColor": "#3c6574",
+        "focusedBorderColor": "#2a4449",
         "focusColor": "#426099",
         "shadowColor": "#27282B"
       }
@@ -103,8 +100,8 @@
     },
 
     "Component": {
-      "errorFocusColor": "#993750",
-      "inactiveErrorFocusColor": "#522530",
+      "errorFocusColor": "#993737",
+      "inactiveErrorFocusColor": "#522525",
       "warningFocusColor": "#8c812b",
       "inactiveWarningFocusColor": "#47441f",
       "iconColor": "#77728fCC",
@@ -155,12 +152,12 @@
     },
 
     "FileColor": {
-      "Yellow": "#45243b",
+      "Yellow": "#453524",
       "Green": "#213d37",
       "Blue": "#1f3557",
       "Violet": "#2a2754",
       "Orange": "#402e23",
-      "Rose": "#4a2d59"
+      "Rose": "#4e2d59"
     },
 
     "InplaceRefactoringPopup.borderColor": "#434b59",
@@ -201,8 +198,8 @@
         "warningBorderColor": "#403013",
 
         "errorForeground": "#D0D0D9",
-        "errorBackground": "#802d43",
-        "errorBorderColor": "#4d1c2b"
+        "errorBackground": "#802d2d",
+        "errorBorderColor": "#4d1c1c"
       }
     },
 
@@ -241,13 +238,13 @@
       "tagForeground": "#D0D0D9",
 
       "Button": {
-        "installForeground": "#62acb3",
-        "installBorderColor": "#62a7b3",
+        "installForeground": "#434a55",
+        "installBorderColor": "#434a55",
         "installFillForeground": "#D0D0D9",
-        "installFillBackground": "#3a8191",
+        "installFillBackground": "#434a55",
         "updateForeground":"#D0D0D9",
-        "updateBackground": "#3a8491",
-        "updateBorderColor": "#3a7791"
+        "updateBackground": "#2f6771",
+        "updateBorderColor": "#2f5e72"
       }
     },
 
