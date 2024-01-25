@@ -22,3 +22,7 @@
 - Updated plugin.xml
 - Changed the plugin name to Atom One Dark Azure
 - Changed the plugin color scheme
+
+## [0.1.2] - 2023-01-24
+### Changed
+- Some changes in the colors of headers, toolwindows, etc.
