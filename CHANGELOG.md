@@ -12,7 +12,7 @@
 - Updated build.gradle.kts to reflect the new plugin
 - Added icon to the plugin
 
-## [0.1.1] - 2023-01-24
+## [0.1.1] 
 ### Added
 - Initial release of the plugin
 - Added MIT license
@@ -23,6 +23,10 @@
 - Changed the plugin name to Atom One Dark Azure
 - Changed the plugin color scheme
 
-## [0.1.2] - 2023-01-24
+## [0.1.2] 
 ### Changed
 - Some changes in the colors of headers, toolwindows, etc.
+
+## [0.1.3] 
+### Changed
+- Fixed 'install' buttons colors in plugin's marketplace

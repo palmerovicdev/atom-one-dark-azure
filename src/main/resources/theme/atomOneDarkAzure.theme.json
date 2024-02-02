@@ -207,8 +207,9 @@
       "tagBackground": "#48526e",
       "tagForeground": "foreground",
       "Button": {
-        "installForeground": "#434a55",
-        "installBorderColor": "#434a55",
+        "installForeground": "foreground",
+        "installBorderColor": "#343c4a",
+        "installBorderColor": "#676b7a",
         "installFillForeground": "foreground",
         "installFillBackground": "button",
         "updateForeground": "foreground",
