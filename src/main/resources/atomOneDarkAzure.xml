@@ -1,14 +1,14 @@
-<scheme name="Atom One Dark Azure" version="1" parent_scheme="Darcula">
+<scheme name="Atom One Dark Azure" version="0.1.4" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2024-01-23T21:35:13</property>
+    <property name="created">2024-02-08T11:51:16</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2023.3.2.0.0</property>
-    <property name="modified">2024-01-23T21:35:42</property>
+    <property name="ideVersion">2023.3.3.0.0</property>
+    <property name="modified">2024-02-08T11:51:35</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="13.5" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -618,13 +618,13 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="62bffc" />
+        <option name="FOREGROUND" value="d88fdf" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="62bffc" />
+        <option name="FOREGROUND" value="61efda" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -635,6 +635,7 @@
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
       <value>
+        <option name="FOREGROUND" value="7ee56d" />
         <option name="EFFECT_COLOR" value="7ee56d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -702,7 +703,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="abb2bf" />
+        <option name="FOREGROUND" value="e796ec" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">

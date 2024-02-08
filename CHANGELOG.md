@@ -30,3 +30,7 @@
 ## [0.1.3] 
 ### Changed
 - Fixed 'install' buttons colors in plugin's marketplace
+
+## [0.1.4]
+### Changed
+- Changed editor color scheme.
