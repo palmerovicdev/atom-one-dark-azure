@@ -33,4 +33,4 @@
 
 ## [0.1.4]
 ### Changed
-- Changed editor color scheme.
+- Changed the editor color scheme.
