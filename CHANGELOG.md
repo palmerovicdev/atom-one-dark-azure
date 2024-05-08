@@ -34,3 +34,7 @@
 ## [0.1.4]
 ### Changed
 - Changed the editor color scheme.
+
+## [0.1.5]
+### Changed
+- Added support for versions after 2024.1
